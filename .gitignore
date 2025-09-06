@@ -1,4 +1,11 @@
-venv/
-.env
+# Python-generated files
 __pycache__/
-.ropeproject/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+
+# Virtual environments
+.venv
